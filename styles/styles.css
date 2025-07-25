@@ -126,7 +126,9 @@ body {
     }
 
     .header__menu{
-        justify-content: center;
+        flex-direction: row;
+        gap: 16px;
+        align-items: center;
     }
 
     .main{
